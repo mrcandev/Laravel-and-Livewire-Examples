@@ -4,8 +4,13 @@ This repository contains examples of using Laravel 11 with Livewire. It provides
 
 ## Screenshots
 
+Livewire Counter Example Screenshot
 ![Livewire_Counter_Example](screenshots/livewire_1.png)
+
+Livewire Load More Example Screenshot
 ![Livewire_Load_More_Example](screenshots/livewire_2.png)
+
+Livewire Live Search Screenshot
 ![Livewire_Live_Search_Example](screenshots/livewire_3.png)
 
 
@@ -14,6 +19,7 @@ This repository contains examples of using Laravel 11 with Livewire. It provides
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Supporting](#supporting)
 - [License](#license)
 
 ## Prerequisites
