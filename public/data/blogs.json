@@ -1,0 +1,230 @@
+[
+    {
+        "title": "Laravel 11 Features",
+        "body": "Discover the new features introduced in Laravel 11.",
+        "category": "Features",
+        "date": "2024-05-15"
+    },
+    {
+        "title": "Livewire Tips",
+        "body": "Learn how to use Livewire effectively in your Laravel applications.",
+        "category": "Livewire",
+        "date": "2024-04-20"
+    },
+    {
+        "title": "JSON in Laravel",
+        "body": "Understand how to work with JSON files in Laravel.",
+        "category": "Data Handling",
+        "date": "2024-03-30"
+    },
+    {
+        "title": "Database Migrations in Laravel",
+        "body": "A comprehensive guide to database migrations in Laravel.",
+        "category": "Database",
+        "date": "2024-05-01"
+    },
+    {
+        "title": "Eloquent ORM Tips",
+        "body": "Improve your Eloquent ORM skills with these tips.",
+        "category": "Eloquent",
+        "date": "2024-05-02"
+    },
+    {
+        "title": "Building APIs with Laravel",
+        "body": "Learn how to build powerful APIs using Laravel.",
+        "category": "API",
+        "date": "2024-04-18"
+    },
+    {
+        "title": "Blade Templates",
+        "body": "Master Blade templates in Laravel.",
+        "category": "Blade",
+        "date": "2024-03-25"
+    },
+    {
+        "title": "Laravel Middleware",
+        "body": "Understand how to use middleware in Laravel.",
+        "category": "Middleware",
+        "date": "2024-05-05"
+    },
+    {
+        "title": "Laravel Task Scheduling",
+        "body": "Automate tasks using Laravel's task scheduling.",
+        "category": "Task Scheduling",
+        "date": "2024-04-10"
+    },
+    {
+        "title": "Authentication in Laravel",
+        "body": "A deep dive into authentication features in Laravel.",
+        "category": "Authentication",
+        "date": "2024-03-22"
+    },
+    {
+        "title": "Laravel Breeze",
+        "body": "Getting started with Laravel Breeze for authentication.",
+        "category": "Authentication",
+        "date": "2024-04-12"
+    },
+    {
+        "title": "Laravel Jetstream",
+        "body": "A guide to using Laravel Jetstream.",
+        "category": "Authentication",
+        "date": "2024-05-08"
+    },
+    {
+        "title": "Debugging Laravel",
+        "body": "Tips and tools for debugging Laravel applications.",
+        "category": "Debugging",
+        "date": "2024-04-15"
+    },
+    {
+        "title": "Deploying Laravel",
+        "body": "Best practices for deploying Laravel applications.",
+        "category": "Deployment",
+        "date": "2024-03-28"
+    },
+    {
+        "title": "Laravel and Docker",
+        "body": "Using Docker for Laravel development.",
+        "category": "DevOps",
+        "date": "2024-04-05"
+    },
+    {
+        "title": "Laravel and Vue.js",
+        "body": "Building reactive applications with Laravel and Vue.js.",
+        "category": "Frontend",
+        "date": "2024-03-20"
+    },
+    {
+        "title": "Using Redis with Laravel",
+        "body": "Leveraging Redis for caching and more in Laravel.",
+        "category": "Caching",
+        "date": "2024-04-25"
+    },
+    {
+        "title": "Unit Testing in Laravel",
+        "body": "Write effective unit tests for your Laravel code.",
+        "category": "Testing",
+        "date": "2024-05-12"
+    },
+    {
+        "title": "Laravel and GraphQL",
+        "body": "Integrating GraphQL with your Laravel applications.",
+        "category": "API",
+        "date": "2024-03-18"
+    },
+    {
+        "title": "Queue Jobs in Laravel",
+        "body": "Managing background jobs with Laravel Queues.",
+        "category": "Queues",
+        "date": "2024-05-10"
+    },
+    {
+        "title": "Laravel Event Broadcasting",
+        "body": "Real-time applications with Laravel Echo and Pusher.",
+        "category": "Real-time",
+        "date": "2024-04-08"
+    },
+    {
+        "title": "Laravel Localization",
+        "body": "Making your Laravel application multilingual.",
+        "category": "Localization",
+        "date": "2024-03-12"
+    },
+    {
+        "title": "Laravel Policies",
+        "body": "Implementing authorization with Laravel Policies.",
+        "category": "Authorization",
+        "date": "2024-03-14"
+    },
+    {
+        "title": "File Uploads in Laravel",
+        "body": "Handling file uploads in Laravel applications.",
+        "category": "File Handling",
+        "date": "2024-03-16"
+    },
+    {
+        "title": "Using AWS with Laravel",
+        "body": "Integrating AWS services with Laravel.",
+        "category": "Cloud",
+        "date": "2024-04-07"
+    },
+    {
+        "title": "Laravel Horizon",
+        "body": "Monitoring queues with Laravel Horizon.",
+        "category": "Monitoring",
+        "date": "2024-04-02"
+    },
+    {
+        "title": "Advanced Eloquent",
+        "body": "Deep dive into advanced Eloquent techniques.",
+        "category": "Eloquent",
+        "date": "2024-03-01"
+    },
+    {
+        "title": "API Authentication",
+        "body": "Securing your APIs with Laravel Passport and Sanctum.",
+        "category": "API",
+        "date": "2024-04-19"
+    },
+    {
+        "title": "Blade Components",
+        "body": "Reusable components with Blade in Laravel.",
+        "category": "Blade",
+        "date": "2024-04-21"
+    },
+    {
+        "title": "Real-time Notifications",
+        "body": "Implementing real-time notifications in Laravel.",
+        "category": "Real-time",
+        "date": "2024-03-11"
+    },
+    {
+        "title": "Laravel Scout",
+        "body": "Full-text search with Laravel Scout and Algolia.",
+        "category": "Search",
+        "date": "2024-05-06"
+    },
+    {
+        "title": "Laravel Sanctum",
+        "body": "API token authentication with Laravel Sanctum.",
+        "category": "Authentication",
+        "date": "2024-04-06"
+    },
+    {
+        "title": "Laravel Octane",
+        "body": "Supercharging your Laravel application with Octane.",
+        "category": "Performance",
+        "date": "2024-05-09"
+    },
+    {
+        "title": "Laravel Fortify",
+        "body": "Customizing authentication with Laravel Fortify.",
+        "category": "Authentication",
+        "date": "2024-03-17"
+    },
+    {
+        "title": "Laravel Mix",
+        "body": "Asset compilation with Laravel Mix.",
+        "category": "Assets",
+        "date": "2024-03-26"
+    },
+    {
+        "title": "Laravel Livewire",
+        "body": "Building dynamic interfaces with Laravel Livewire.",
+        "category": "Livewire",
+        "date": "2024-04-01"
+    },
+    {
+        "title": "Performance Optimization",
+        "body": "Optimizing the performance of your Laravel application.",
+        "category": "Performance",
+        "date": "2024-03-05"
+    },
+    {
+        "title": "Laravel Cashier",
+        "body": "Subscription billing with Laravel Cashier.",
+        "category": "Billing",
+        "date": "2024-04-11"
+    }
+]
