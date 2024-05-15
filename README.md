@@ -33,7 +33,7 @@ To install and set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/laravel-livewire-examples.git
+   git clone https://github.com/mrcandev/Laravel-and-Livewire-Examples.git
 
 2. Navigate to the project directory:
     ```bash
