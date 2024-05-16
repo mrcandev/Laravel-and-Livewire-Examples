@@ -2,6 +2,9 @@
 
 This repository contains examples of using Laravel 11 with Livewire. It provides several use cases demonstrating how to integrate Livewire components into a Laravel application.
 
+## Demo Video
+[![LARAVEL_11_TASK_MANAGEMENT_SYSTEM](https://img.youtube.com/vi/zTslEhyLvYc/0.jpg)](https://www.youtube.com/watch?v=zTslEhyLvYc)
+
 ## Screenshots
 
 Livewire Counter Example Screenshot
@@ -13,6 +16,10 @@ Livewire Load More Example Screenshot
 Livewire Live Search Screenshot
 ![Livewire_Live_Search_Example](screenshots/livewire_3.png)
 
+## Features
+- Increasing and decreasing with a counter (You can think of it as a cart system)
+- A pagination system where you load blog posts with the load more button.
+- Instant search system
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -37,7 +44,7 @@ To install and set up the project locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd laravel-livewire-examples
+    cd project_folder
 
 3. Install PHP dependencies:
     ```bash
@@ -65,7 +72,7 @@ To install and set up the project locally, follow these steps:
 To install and set up the project locally, follow these steps:
 1. To run the application, use the following command:
     ```bash
-    php artisan migrate
+    php artisan serve
 
 Visit http://localhost:8000 in your web browser to view the application.
 
